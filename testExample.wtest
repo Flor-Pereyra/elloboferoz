@@ -1,0 +1,9 @@
+import historia.loboFeroz
+
+describe "test de la historia" {
+
+  test "peso inicial del lobo feroz" {
+    assert.equals(10, loboFeroz.peso())
+  }
+
+}
