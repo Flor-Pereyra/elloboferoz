@@ -150,3 +150,39 @@ test "sala que mas recauda" {
 
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+object salaComun {
+    var espectadores = 0
+    var capacidad = 200
+    var precioEntrada = 8000
+}
+
+object salaPremium {
+    var espectadores = 0
+    var capacidad = 120
+    var precioEntrada = 10000
+}
+
+object sala3D {
+    var espectadores = 0
+    var capacidad = 80
+    var precioEntrada = 15000
+}
+
+object cine {
+    const salas = #[salaComun, salaPremium, sala3D]
+}
