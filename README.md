@@ -4,10 +4,6 @@ Catálogo interactivo de películas y animes desarrollado en Wollok.
 
 ## 🚀 Cómo ejecutarlo
 
-1. Clona este repositorio en tu computadora.
-2. Abre el proyecto utilizando **Wollok Studio** o **VS Code** con la extensión de Wollok.
-3. Ejecuta el archivo `src/program.wpgm`.
-
 ## 🎮 Controles
 
 - **T**: Ver Todo el catálogo
